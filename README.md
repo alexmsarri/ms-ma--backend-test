@@ -1,3 +1,21 @@
+## Important
+- IDE requires **Lombok** Library in order to compile. Check https://projectlombok.org/setup/eclipse
+- There's an Integration Test *FriendsIT* with the Test Cases.
+
+## Frameworks and Libraries used:
+  - Spring Boot.
+  - Spring Data.
+  - Spring Security.
+  - Swagger2 (http://URI:PORT/swagger-ui.html).
+  - Lombok.
+  - ModelMapper.
+
+### Missing features:
+  - Remove a friend.
+  - More Tests (Controller and Service Layer).
+
+
+---------------------------------------------------
 # Friends
 *(If you first thought on the TV comedy, you are getting old)*
 

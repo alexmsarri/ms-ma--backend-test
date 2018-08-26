@@ -1,16 +1,17 @@
 ## Important
-- IDE requires **Lombok** Library in order to compile. Check https://projectlombok.org/setup/eclipse
+- IDE requires **Lombok** in order to compile. Check https://projectlombok.org/setup/eclipse.
+- It required HTTP Basic Authentication. First user can be created anonymously or using 'admin' / 'password' credentials.
 - There's an Integration Test *FriendsIT* with the Test Cases.
 
 ## Frameworks and Libraries used:
   - Spring Boot.
   - Spring Data.
   - Spring Security.
-  - Swagger2 (http://URI:PORT/swagger-ui.html).
+  - Swagger2 (http://URI:PORT/swagger-ui.html admin / password).
   - Lombok.
   - ModelMapper.
 
-### Missing features:
+## Missing features:
   - Remove a friend.
   - More Tests (Controller and Service Layer).
 
